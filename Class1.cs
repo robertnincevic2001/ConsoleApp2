@@ -11,7 +11,5 @@ namespace ConsoleApp2
 
         }
 
-
     }
-    void metoda2(){}
 }
